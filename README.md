@@ -7,7 +7,7 @@ Using a custom map that can handle both simple fields renames and more complicat
 ## Usage
 ### Add to project
 ```bash
-yarn add yap-csv
+yarn add @nielsen-oss/yap-csv
 ```
 ### Structure
 The module exposes two variables a ```Parser``` and ```ConverterConsts```. <br/>
