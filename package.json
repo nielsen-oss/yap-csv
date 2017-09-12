@@ -1,5 +1,5 @@
 {
-  "name": "yap-csv",
+  "name": "@nielsen-oss/yap-csv",
   "version": "1.0.0",
   "description": "Node.js package that manages CSV to JSON conversion supporting complex field mapping",
   "repository": {
