@@ -1,5 +1,6 @@
 # yap-csv
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) 
+[![npm version](https://badge.fury.io/js/%40nielsen-oss%2Fyap-csv.svg)](https://badge.fury.io/js/%40nielsen-oss%2Fyap-csv)
 <br/>
 The purpose of this module is to support converting a csv (with delimiter support) to an array of json objects.<br/> 
 Using a custom map that can handle both simple fields renames and more complicated fields that are a result of calculations
