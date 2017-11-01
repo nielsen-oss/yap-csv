@@ -3,6 +3,7 @@
 [![npm version](https://badge.fury.io/js/%40nielsen-oss%2Fyap-csv.svg)](https://badge.fury.io/js/%40nielsen-oss%2Fyap-csv)
 [![Build Status](https://travis-ci.org/nielsen-oss/yap-csv.svg?branch=master)](https://travis-ci.org/nielsen-oss/yap-csv)
 [![codecov](https://codecov.io/gh/nielsen-oss/yap-csv/branch/master/graph/badge.svg)](https://codecov.io/gh/nielsen-oss/yap-csv)
+[![Known Vulnerabilities](https://snyk.io/test/github/nielsen-oss/yap-csv/badge.svg)](https://snyk.io/test/github/nielsen-oss/yap-csv)
 <br/>
 The purpose of this module is to support converting a csv (with delimiter support) to an array of json objects.<br/> 
 Using a custom map that can handle both simple fields renames and more complicated fields that are a result of calculations
