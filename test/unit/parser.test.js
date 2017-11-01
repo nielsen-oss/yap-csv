@@ -3,7 +3,6 @@
 const test = require('ava')
 const sinon = require('sinon')
 const fs = require('fs')
-const EventEmitter = require('events').EventEmitter
 const Parser = require('../../modules/parser')
 
 test('parseSingle - file does not exist', async t => {
