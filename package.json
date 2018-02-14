@@ -36,7 +36,7 @@
     "body-parser": "^1.15.0",
     "csv": "^1.1.0",
     "express": "^4.13.4",
-    "express-validation": "^0.4.5",
+    "express-validation": "^0.6.0",
     "express-winston": "^1.2.0",
     "express-winston-middleware": "^0.0.6",
     "lodash": "^4.17.2",
