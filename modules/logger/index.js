@@ -1,3 +1,4 @@
+/*eslint new-cap: ["error", { "newIsCap": false }]*/
 'use strict'
 
 const winston = require('winston')
