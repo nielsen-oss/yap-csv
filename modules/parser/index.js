@@ -117,7 +117,7 @@ module.exports = class Parser {
         writableObjectMode: true,
         readableObjectMode: true,
         transform (chunk, encoding, callback) {
-          Progress.report(`${fileKey} - Processing row ${parser.count}`)
+          Progress.report(`${fileKey} - Processing row ${parser.info.records}`)
           this.push(chunk)
           callback()
         }
