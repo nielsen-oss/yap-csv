@@ -1712,9 +1712,9 @@ express-validation@^0.6.0:
   dependencies:
     lodash "^4.9.0"
 
-express-winston-middleware@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/express-winston-middleware/-/express-winston-middleware-0.0.6.tgz#34705a7f507c76507bd2a100ac3ec2daa50e159b"
+express-winston-middleware@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/express-winston-middleware/-/express-winston-middleware-0.1.0.tgz#52516ede58c63d6e0ffed779e2ecfbc038ea4988"
   dependencies:
     lodash "2.4.0"
 
