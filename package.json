@@ -38,7 +38,7 @@
     "express": "^4.16.0",
     "express-validation": "^0.6.0",
     "express-winston": "^2.5.0",
-    "express-winston-middleware": "^0.0.6",
+    "express-winston-middleware": "^0.1.0",
     "lodash": "^4.17.11",
     "uuid": "^3.0.1",
     "winston": "^3.2.1"
