@@ -15,7 +15,7 @@ const addKeyNameToFields = (parser) => {
     readableObjectMode: true,
     writableObjectMode: true,
     transform (chunk, encoding, callback) {
-      if (parser.count === 1) {
+      if (parser.info.records === 1) {
         keys = chunk
       } else {
         let parsedObject = {}

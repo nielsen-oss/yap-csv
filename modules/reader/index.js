@@ -113,7 +113,7 @@ module.exports = class Parser {
    */
   static readFileStream (filePath, delimiter) {
     try {
-      const parser = csv.parse({ delimiter: delimiter, relax: true })
+      const parser = csv.parse({ delimiter: delimiter, relax_column_count: true })
       const fileStream = fs.createReadStream(filePath)
 
       fileStream.on('error', (error) => {

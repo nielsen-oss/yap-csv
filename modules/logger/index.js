@@ -7,7 +7,7 @@ const winston = require('winston')
  * @description module that provides a collection of loggers for different uses
  */
 
-const wLogger = new winston.Logger({
+const wLogger = new winston.createLogger({
   transports: [
     new (winston.transports.Console)({
       json: true,

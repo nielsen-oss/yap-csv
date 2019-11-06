@@ -33,14 +33,15 @@
   },
   "dependencies": {
     "bluebird": "^3.3.3",
-    "body-parser": "^1.15.0",
+    "body-parser": "^1.18.2",
     "csv": "^5.0.0",
-    "express": "^4.13.4",
+    "express": "^4.16.0",
     "express-validation": "^0.6.0",
     "express-winston": "^2.5.0",
     "express-winston-middleware": "^0.0.6",
     "lodash": "^4.17.11",
-    "uuid": "^3.0.1"
+    "uuid": "^3.0.1",
+    "winston": "^3.2.1"
   },
   "license": "Apache-2.0",
   "babel": {
