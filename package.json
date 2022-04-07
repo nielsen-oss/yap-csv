@@ -41,7 +41,7 @@
     "express-winston-middleware": "^0.1.0",
     "lodash": "^4.17.11",
     "uuid": "^3.0.1",
-    "winston": "^3.2.1"
+    "winston": "^3.3.0"
   },
   "license": "Apache-2.0",
   "babel": {
